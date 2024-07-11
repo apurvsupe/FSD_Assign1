@@ -1,0 +1,1 @@
+This file is added to the master branch initially. It is then merged into the main branch.
